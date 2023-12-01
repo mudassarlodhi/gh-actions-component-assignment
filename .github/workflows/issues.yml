@@ -1,8 +1,5 @@
 name: New Issue
-on:
-  issues:
-    types:
-      - opened
+on: issues
 jobs:
   output-issue-detail:
     runs-on: ubuntu-latest
