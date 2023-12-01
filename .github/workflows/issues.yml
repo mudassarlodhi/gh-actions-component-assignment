@@ -1,4 +1,4 @@
-name: New Issue
+name: Output Issue
 on: issues
 jobs:
   output-issue-detail:
